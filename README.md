@@ -37,6 +37,17 @@ Prior to report creation, it's essential to extract data from the various data s
 
 This documentation project focuses on No SQL Database.
 
+## Connecting To NoSQL:
+Certain organizations opt not to utilize relational databases and instead employ NoSQL databases. NoSQL databases, being versatile, do not rely on tables for data storage.  
+  
+In this case, Imaginary Inc. has developed an application aimed at overseeing the shipping and tracking of products from their warehouses. The application utilizes Cosmos DB, a NoSQL database, as its data repository. Data is organized into JSON documents, which are widely recognized file formats primarily employed for transmitting data between servers and web applications. Your task involves importing this data into a Power BI semantic model for reporting purposes.
+
+## Connecting To a NoSQL Database (Azure Cosmos DB)
+
+To establish a connection to your data source, utilize the "Get data" function within Power BI Desktop. Then, opt for the "More..." option to find and establish a connection with the specific type of database you're using. In this instance, you'll navigate to the Azure category, choose Azure Cosmos DB, and proceed by selecting "Connect."
+
+![]()
+
 ## Help and Support
 
 #### Did you find this document helpful? Leave a Star
