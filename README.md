@@ -7,6 +7,9 @@ In today’s data driven world, organizations rely heavily on insights derived f
 
 - [Overview](#Overview)
 - [Data Sources](#Data-Sources)
+- [Connecting To A NoSQL Database](#Connecting-To-A-NoSQL-Database)
+- [Connecting To Azure Cosmos DB](#Connecting-To-Azure-Cosmos-DB)
+- [Importing A JSON File](#Importing-A-JSON-File)
 - [Conclusion](#Conclusion)
 - [Reference](#Reference)
   
