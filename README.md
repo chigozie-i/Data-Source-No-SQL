@@ -85,7 +85,7 @@ Once connected, Power BI facilitates the transformation of JSON data into a stru
 Ultimately, the ability to connect to NoSQL databases like Cosmos DB empowers organizations to harness the full potential of their data, driving innovation and competitive advantage in today's data-driven landscape. With Power BI as a powerful ally, organizations can unlock valuable insights from their NoSQL data, enabling them to stay ahead in an increasingly competitive market.
 
 ## Reference:
-https://learn.microsoft.com
+https://learn.microsoft.com  
 https://docs.microsoft.com
 
 
